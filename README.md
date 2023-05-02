@@ -1,28 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 <div>
 
   <h3><b>Microverse README Template</b></h3>
@@ -89,8 +66,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **It has MIT License**
 - **It has HTML files**
 - **It has CSS files**
@@ -115,51 +90,40 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+- A code editor of your choice (like VS code or atom or any other)
+- Version Control System (Git is preferred)
 
 ```sh
   npm install
 ```
- -->
+
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
+  git clone https://github.com/Nomarg/Hello-Microverse.git
   cd Hello-Microverse
-  git clone git@github.com:Nomarg/Hello-Microverse.git
 ```
---->
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
   cd Hello-Microverse
   gem install
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
   rails server
 ```
---->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,8 +169,6 @@ If you like this project rate a star⭐
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank microverse guiding me through this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -214,8 +176,6 @@ I would like to thank microverse guiding me through this project.
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **Is this project work?**
 
@@ -231,6 +191,6 @@ I would like to thank microverse guiding me through this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
